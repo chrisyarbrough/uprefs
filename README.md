@@ -1,6 +1,8 @@
 # uprefs
 A command line utility to view and modify Unity EditorPrefs.
 
+<img width="771" alt="uprefs_list" src="https://user-images.githubusercontent.com/17833862/200186113-728030a7-2c56-4bc0-a066-8a6385380854.png">
+
 # Support
 Operating system: macOS (tested on Monterey 12.6.1)<br>
 Unity version: 2017.4 or newer (at least until 2023)
